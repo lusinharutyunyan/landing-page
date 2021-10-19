@@ -1,0 +1,488 @@
+.figure {
+  position: relative;
+}
+figcaption {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.h1txt {
+  position: absolute;
+  top: 25%;
+  bottom: 50%;
+  font-size: 74px;
+  color: white;
+  font-weight: bold;
+}
+.mdtext {
+  position: absolute;
+  top: 55%;
+  color: white;
+  font-size: 28px;
+  font-weight: 300;
+  line-height: 40px;
+  text-align: center;
+  left: 20%;
+}
+.button {
+  position: absolute;
+  border-radius: 35px;
+  top: 420px;
+  left: 40%;
+  text-align: center;
+  padding: 16px 0 16px 0;
+  width: 236px;
+  height: 52px;
+  margin-top: 20px;
+}
+.secondmdtext {
+  font-size: 28px;
+  font-weight: 300;
+  line-height: 40px;
+  color: #374754;
+  top: 10px;
+  padding: 0 82px 27px 82px;
+  letter-spacing: 0.2px;
+  text-align: start;
+}
+.btndiv {
+  padding: 0 70px 27px 82px;
+}
+.secondheadingtxt {
+  color: #252b42;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 55px;
+  padding: 226px 82px 27px 82px;
+}
+.tryforfree {
+  border-radius: 35px;
+  padding: 16px 0 16px 0;
+  width: 236px;
+  height: 60px;
+  font-weight: 700;
+  font-size: 20px;
+}
+.macpng {
+  left: 10px;
+  padding: 226px 0 226px 0;
+}
+.macimg {
+  width: 600px;
+  height: 394.17px;
+  left: 10px;
+}
+.featurestxt {
+  color: #252b42;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 55px;
+  text-align: center;
+}
+.features {
+  padding: 90px 163px 90px 263px;
+}
+h3 {
+  color: #252b42;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28px;
+  align-items: center;
+}
+.playbtn {
+  position: absolute;
+  text-align: center;
+  top: 235.3px;
+  left: 495.3px;
+}
+.newsletter {
+  display: none;
+}
+h2 {
+  font-size: 48px;
+  line-height: 55px;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+h5 {
+  color: #374754;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.1px;
+}
+h4 {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  font-style: normal;
+  color: #374754;
+}
+.submitbtn {
+  border-radius: 35px;
+  width: 162px;
+  height: 44px;
+  top: 14px;
+  left: 285px;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+.submitinput {
+  border-radius: 39px;
+  background-color: #f4f4f4;
+  width: 263px;
+  height: 44px;
+  top: 36px;
+  padding: 19px 39px 19px 39px;
+}
+.clienttxt {
+  width: 987px;
+  margin-left: 107px;
+}
+.aboutclient {
+  width: 123px;
+}
+.clientdiv {
+  width: 276px;
+  height: 55px;
+  margin-left: 400.5px;
+  padding-top: 30px;
+  text-align: center;
+}
+.moretestimonials {
+  padding: 16px 47px 16px 47px;
+  width: 276px;
+  height: 60px;
+  border-radius: 35px;
+  font-weight: 700;
+  font-size: 20px;
+}
+.pricing {
+  background-color: #252b42;
+  height: 1155px;
+}
+.pricingtxt {
+  text-align: center;
+  margin-top: 100px;
+}
+.pricingh2 {
+  color: white;
+  font-size: 48px;
+  line-height: 55px;
+  font-weight: normal;
+}
+.pricingh4 {
+  color: white;
+  font-size: 28px;
+  line-height: 40px;
+  letter-spacing: 0.2px;
+}
+.zero {
+  color: #252b42;
+  font-size: 74px;
+  font-weight: bold;
+}
+.pricingstyles {
+  margin-top: 90px;
+  width: 1105px;
+  height: 693px;
+}
+.screencontent {
+  width: 516px;
+  height: 323.19px;
+}
+.contactform {
+  width: 353px;
+  height: 549px;
+  border-radius: 20px;
+  border: 1px solid #dddddd;
+  text-align: center;
+  margin-left: 105px;
+  margin-top: 60px;
+}
+.infodiv {
+  width: 725px;
+  height: 108px;
+  margin-top: 38.41px;
+  padding: 50px;
+}
+.social {
+  width: 190.96px;
+  height: 40.99px;
+  padding-top: 70px;
+  padding-left: 60px;
+}
+
+.imgdiv {
+  text-align: center;
+  width: 313px;
+}
+.container-fluid {
+  padding: 0 !important;
+}
+.footerh3 {
+  color: white;
+  font-size: 20px;
+  line-height: 28px;
+}
+.price {
+  width: 78px;
+  height: 51px;
+}
+.menu {
+  display: none;
+}
+.footer {
+  background-color: #252b42;
+  color: white;
+  height: 467px;
+}
+.flex-column {
+  height: 204px;
+}
+.footercontainer {
+  padding-top: 150px;
+  width: 867px;
+}
+@media only screen and (max-width: 418px) {
+  .figure1 {
+    width: 417px;
+    height: 847px;
+    background-image: url("./Images/Rectanglemin.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .figmalogo {
+    text-align: start;
+    margin-right: 20px;
+    width: 186px;
+  }
+  .menu {
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline;
+    width: 40px;
+  }
+  .videoscreen {
+    display: none;
+  }
+
+  .figureimg1 {
+    display: none;
+  }
+  .me-auto {
+    display: none;
+  }
+  .socialmedia {
+    display: none;
+  }
+  .h1txt {
+    width: 383px;
+    height: 165px;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    padding: 10px;
+  }
+  .mdtext {
+    width: 265px;
+    height: 80px;
+    font-size: 28px;
+    font-weight: 400;
+  }
+  .button {
+    text-align: center;
+    margin-top: 180px;
+    margin-left: -90px;
+  }
+  .spantxt {
+    display: none;
+  }
+  .btncol {
+    margin-right: 50px;
+  }
+  .hero {
+    width: 418px;
+  }
+  .macpng {
+    padding: 50px;
+  }
+  .macimg {
+    width: 372px;
+    height: 225px;
+  }
+
+  .featurestxt {
+    margin-top: 91px;
+  }
+  .features {
+    padding: 18px 0 18px 0;
+    margin-left: 90px;
+    text-align: center;
+    width: 255px;
+    height: 654px;
+  }
+  .videoscreen {
+    display: none;
+  }
+  .headings {
+    text-align: center;
+  }
+  .card-img {
+    width: 371px;
+  }
+  .featurescontainer {
+    padding: 18px, 0px, 18px, 0px;
+  }
+  .newsletter {
+    display: block;
+  }
+  .hideonxs {
+    display: none;
+  }
+  .card-text {
+    text-align: center;
+    width: 373px;
+    padding: 10px;
+    height: 261px;
+  }
+  .card-body {
+    padding-top: 0;
+  }
+  .form-control {
+    width: 353px;
+  }
+  .submitinput {
+    margin-top: 10px;
+  }
+
+  .submit {
+    width: 353px;
+    margin-top: 12px;
+  }
+  .submitbtn {
+    width: 353px;
+  }
+  .hide {
+    display: none;
+  }
+  .clienttxt {
+    text-align: center;
+    width: 236.91px;
+    font-size: 13.53px;
+    letter-spacing: 0.17px;
+    font-weight: 700;
+    line-height: 16.91px;
+    margin-left: 67px;
+  }
+  .ibmlogo {
+    width: 126.68px;
+  }
+  .clientdiv {
+    height: 42.38px;
+    margin-left: 10px;
+    text-align: center;
+  }
+  .aboutclient {
+    width: 72px;
+    height: 42px;
+  }
+  .clientimg {
+    width: 42px;
+    height: 42px;
+    margin-left: 32px;
+  }
+  .moretestimonials {
+    margin-top: 30px;
+  }
+  .pricing {
+    width: 418px;
+    height: 2520px;
+  }
+  .pricingtxt {
+    width: 158px;
+    padding-top: 10px;
+    text-align: center;
+  }
+  .pricingh2 {
+    width: 158px;
+    text-align: center;
+    margin-left: 92px;
+  }
+  .pricingh4 {
+    width: 265px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 28px;
+    margin-left: 52px;
+    line-height: 40px;
+    letter-spacing: 0.2px;
+    margin-top: 27px;
+  }
+  .pricingstyles {
+    width: 335px;
+    padding: 18px 0px 18px 18px;
+  }
+  .pricingstylecontrast {
+    margin-top: 43px;
+  }
+  .contactus {
+    width: 418px;
+    height: 1568.99px;
+    text-align: center;
+  }
+  .screencontent {
+    display: none;
+  }
+  .contactform {
+    width: 353px;
+    height: 549px;
+    border-radius: 20px;
+    border: 1px solid #dddddd;
+    text-align: center;
+    margin-left: 62px;
+    margin-top: 60px;
+  }
+  .infodiv {
+    width: 349px;
+    height: 108px;
+    margin-top: 38.41px;
+   margin-left: 20px;
+  }
+  .contactusdiv {
+    width: 418px;
+    height: 1468.99px;
+  }
+  .social {
+    width: 210.96px;
+    height: 40.99px;
+    padding-top: 0px;
+    margin-left: 22px;
+    text-align: center;
+  }
+  .footer {
+    height: 1430.99px;
+    text-align: center;
+  }
+  .footercontainer {
+    width: 418px;
+  }
+  .socialfooter {
+    width: 170.96px;
+    padding-left: 105px;
+    padding-top: 30px;
+  }
+  .footeritems {
+    height: 267px;
+  }
+  .footeritem {
+    padding-top: 20px;
+  }
+  .price{
+    margin-right: 20px;
+  }
+}
